@@ -1,0 +1,3 @@
+There is bug in profile.html...
+I'm trying to correct it.
+This is my first website so it is for fun
